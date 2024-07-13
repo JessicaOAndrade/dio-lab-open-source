@@ -6,7 +6,7 @@
 
 ## 👩🏽‍🦰 Sou a Jéssica...
 
-- 🧡 Mãe do Hyoran
+- 🧡 Mãe do **Hyoran**
 - 💻 Futura Data Analyst
 - 👩‍💻 Estagiária na John Deere na área de Data Analytics & Business Intelligence
 - 💜 SWE (Sociedade de Mulheres na Engenharia e áreas de STEM)
